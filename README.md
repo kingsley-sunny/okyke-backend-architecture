@@ -219,3 +219,8 @@ The system is implemented using modern technologies and follows best practices:
 - Database sharding and replication for performance and reliability
 
 This architecture provides a solid foundation for an e-commerce system that can adapt to evolving business needs while maintaining security, performance, and reliability.
+
+## Database Design
+The Database design can be viewed with this link.
+
+<a href="./MerchHub.pdf" target="_blank">View Database design PDF</a>
